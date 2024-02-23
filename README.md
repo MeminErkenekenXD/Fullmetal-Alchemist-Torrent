@@ -38,8 +38,8 @@ Cold and calculated mid-long range alchemist. He uses his flame alchemy to contr
 - W A D : Movement (Roy can't dash or crouch like Edward)
 - W : Jump   (Hold for higher jump)
 - K : Combo Starter Fire Spark (Straight , can be avoided by ducking/crouching)
-- K K : Fire Spark that goes *Downwards* to hit crouching or standing opponent
-- K L : Fire Spark that goes *Upwards* to catch opponents who jump high
+- K - K : Fire Spark that goes *Downwards* to hit crouching or standing opponent
+- K - L : Fire Spark that goes *Upwards* to catch opponents who jump high
 - K - ? - K : Combo Finisher that goes straight , can be used to catch people landing
 - K - ? - L : Combo Finisher that flows with a zigzag like shape that tends to ascend a bit
 - L : Alchemy Move "Snap Flash"  (Super fast duckable lightning)
