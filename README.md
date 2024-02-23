@@ -47,8 +47,12 @@ Cold and calculated mid-long range alchemist. He uses his flame alchemy to contr
 - L + S : Alchemy Move "Rising Ash"     (Quick close range defensive attack)
 - L + S (Hold) : Alchemy Move "Rising Ash Barrage"   (Fire Rising Ash for three times back to back, it can hit the opponent up to three times if hit point blank)
 
-**General Tip**
+**General Tip**<br />
 If you struggle with Down+Alchemy moves. Try to release the Alchemy button while still holding the down button.
 
+
+**Links**<br />
+
 Download the html above to play the game <br />
+Moves and Mechanics Breakdown Video https://youtu.be/ZmwS0oyBEhE <br />
 Scratch link https://scratch.mit.edu/projects/498781020/editor/
