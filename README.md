@@ -1,6 +1,4 @@
 # Fullmetal Alchemist Torrent Edition
-2D FMA Fighting Game (made with Scratch and converted to HTML) <br />
-
 # Game Overview
 FMA Torrent Edition is a 2D fighting game where you can play with your friends with either
 Edward Elric or Roy Mustang. Edward is based on close ranged combat while Roy mainly uses projectiles. <br />
