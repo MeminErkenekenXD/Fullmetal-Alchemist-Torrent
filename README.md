@@ -1,7 +1,9 @@
 # Fullmetal Alchemist Torrent Edition
+
 # Game Overview
 FMA Torrent Edition is a 2D fighting game where you can play with your friends with either
 Edward Elric or Roy Mustang. Edward is based on close ranged combat while Roy mainly uses projectiles. <br />
+![fma1](https://github.com/MeminErkenekenXD/Fullmetal-Alchemist-Torrent/assets/97636236/935571d9-9328-4811-8822-73bd43ff3f35)
 
 Both characters have their base combos and special alchemy moves. Alchemy moves has cooldowns before they can be used again. Alchemy moves can be charged by holding the button. Charging the technique until the character starts glowing and then letting the button will strengthen the move, sometimes changing their behaviour.<br />
 
@@ -11,9 +13,13 @@ Both characters have their base combos and special alchemy moves. Alchemy moves 
 
 Quick and agile close range brawler. While he has some ranged attacks. He usually uses his tools and superior movement to get close his opponent where he can use his combos to either do max damage or setup his special alchemy moves.
 
+![fma2](https://github.com/MeminErkenekenXD/Fullmetal-Alchemist-Torrent/assets/97636236/1c9b2ba5-b9d3-4c34-a963-cf0239f04d5c)
+
 **Roy Mustang** <br />
 
 Cold and calculated mid-long range alchemist. He uses his flame alchemy to control the battle from a safe distance. He can bombard his opponent with powerful flame alchemy techniques . He has limited movement compared to Edward, he should read his opponents movement to catch him with the right moves. He has some defensive tools to help him as well.
+
+![fma4](https://github.com/MeminErkenekenXD/Fullmetal-Alchemist-Torrent/assets/97636236/61f7afef-5178-41d3-b155-68a8f204507c)
 
 # Move List and Controls
 
@@ -32,6 +38,8 @@ Cold and calculated mid-long range alchemist. He uses his flame alchemy to contr
 - Numpad 2 + Down Arrow : Alchemy Move "Metal Spike"
 - Numpad 2 + Down Arrow (Hold) : Alchemy Move "Metal Saw"
 
+![fma6](https://github.com/MeminErkenekenXD/Fullmetal-Alchemist-Torrent/assets/97636236/a222e796-9d2b-427d-8ee4-9f7c4421a5e2)
+
 **Roy Mustang** <br />
 - W A D : Movement (Roy can't dash or crouch like Edward)
 - W : Jump   (Hold for higher jump)
@@ -44,6 +52,9 @@ Cold and calculated mid-long range alchemist. He uses his flame alchemy to contr
 - L (Hold) : Alchemy Move "Star Snap"    (Fires a ligtning bolt straight up. Which then explodes and scatters into five sparks)
 - L + S : Alchemy Move "Rising Ash"     (Quick close range defensive attack)
 - L + S (Hold) : Alchemy Move "Rising Ash Barrage"   (Fire Rising Ash for three times back to back, it can hit the opponent up to three times if hit point blank)
+
+![fma3](https://github.com/MeminErkenekenXD/Fullmetal-Alchemist-Torrent/assets/97636236/bffab909-ee5b-44c6-8745-af7c6dae5c48)
+
 
 **General Tip**<br />
 If you struggle with Down+Alchemy moves. Try to release the Alchemy button while still holding the down button.
