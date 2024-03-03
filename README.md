@@ -52,5 +52,5 @@ If you struggle with Down+Alchemy moves. Try to release the Alchemy button while
 **Links**<br />
 
 Download the html above to play the game <br />
-Moves and Mechanics Breakdown Video https://youtu.be/ZmwS0oyBEhE <br />
-Scratch link https://scratch.mit.edu/projects/498781020/editor/
+Moves and Mechanics Breakdown Video : https://youtu.be/ZmwS0oyBEhE <br />
+Scratch link : https://scratch.mit.edu/projects/498781020/editor/
